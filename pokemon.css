@@ -185,5 +185,10 @@ margin-left: 85%;
 margin-right: 15%;
 
 }
+ . nombre {
+  transformación de texto : capitalizar;
+  tamaño de fuente :  1,5 rem ;
+  relleno :  10 px ;
   
+}
 }
